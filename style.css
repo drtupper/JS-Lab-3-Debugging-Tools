@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: lightblue;
+}
+
+h1{
+  font-size: 5.681rem;
+}
+
+h2{
+  font-size: 4.209rem;
+}
+
+p{
+  font-size: 2rem;
+}
